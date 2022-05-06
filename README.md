@@ -34,7 +34,16 @@ The following project is a music visualizer which utilizes the Processing (graph
 
 ## Audio Background 📖🎹
 ### FFT (Fast Fourier Transform)
+* A Fourier Transform is an algorithm that transforms a signal in the time domain, such as a sample buffer, into a signal in the frequency domain, often called the spectrum
+* The audio buffers you want to analyze must have a length that is a power of two
+* The spectrum does not represent individual frequencies, but actually represents frequency bands centered on particular frequencies
+* To read more about FFT you can visit this link (https://code.compartmental.net/minim/javadoc/ddf/minim/analysis/FFT.html)
+* Basically I use this library to analuze an analog signal and convert it to the frequency spectrum which can be visualized with vertical bars
 
 ### Beat Detector
-
+* The BeatDetect class allows you to analyze an audio signal for distinc beats
+* This is done using the Beat Detection Algorithms by Fredric Patin
+* To read more about BeatDetect you can visit this link (https://code.compartmental.net/minim/beatdetect_class_beatdetect.html)
+* BeatDetect analyzes two things the freuquency of energy and the level of energy
+* If there are distinct spikes in energy compared to previous ones then it is considred a beat
 
