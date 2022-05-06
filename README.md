@@ -20,8 +20,11 @@ The following project is a music visualizer which utilizes the Processing (graph
 </p> 
 
 ### Version 1
-
+* Version 1 uses 4 colors and calculates a linear interpolation between all 4 colors and colors different sections of the frequency bands and beat circle with this gradient
+ 
 ### Version 2
+* Version 2 simply creates a color gradient dependent on the amplitude of the frequency band and the radius of the beat circle
+
 
 ## Breakdown 📖
 
