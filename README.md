@@ -20,6 +20,9 @@ The following project is a music visualizer which utilizes the Processing (graph
 
 ### Version 1
 * Version 1 uses 4 colors and calculates a linear interpolation between all 4 colors and colors different sections of the frequency bands and beat circle with this gradient
+
+</br>
+</br>
  
 <p> 
     <img width=250 align='Right' src="https://github.com/Raziz1/Audio_Visualizer/blob/main/images/Visualizer_Version2.png? raw=true" >
