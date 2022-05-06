@@ -15,8 +15,8 @@ The following project is a music visualizer which utilizes the Processing (graph
 ## Versions 🧾
 
 <p> 
-    <img width=500 align='Right' src="https://github.com/Raziz1/Audio_Visualizer/blob/main/images/Visualizer_Version1.png? raw=true" >
-    <img width=500 align='Right' src="https://github.com/Raziz1/Audio_Visualizer/blob/main/images/Visualizer_Version2.png? raw=true" >
+    <img width=400 align='Right' src="https://github.com/Raziz1/Audio_Visualizer/blob/main/images/Visualizer_Version1.png? raw=true" >
+    <img width=400 align='Right' src="https://github.com/Raziz1/Audio_Visualizer/blob/main/images/Visualizer_Version2.png? raw=true" >
 </p> 
 
 ### Version 1
