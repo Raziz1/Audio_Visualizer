@@ -32,5 +32,9 @@ The following project is a music visualizer which utilizes the Processing (graph
 * Version 2 simply creates a color gradient dependent on the amplitude of the frequency band and the radius of the beat circle
 
 
-## Breakdown 📖
+## Audio Background 📖🎹
+### FFT (Fast Fourier Transform)
+
+### Beat Detector
+
 
