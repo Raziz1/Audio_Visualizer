@@ -47,3 +47,16 @@ The following project is a music visualizer which utilizes the Processing (graph
 * BeatDetect analyzes two things the frequency of energy and the level of energy
 * If there are distinct spikes in energy compared to previous ones, then it is considered a beat
 
+## More Resources 🧠
+### FFT (Fast Fourier Transform)
+* [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY&ab_channel=3Blue1Brown)
+* [The Fast Fourier Transform (FFT)](https://www.youtube.com/watch?v=E8HeD-MUrjY&ab_channel=SteveBrunton)
+* [Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform#:~:text=A%20fast%20Fourier%20transform%20(FFT,frequency%20domain%20and%20vice%20versa.)
+* [17.11: Sound Visualization: Frequency Analysis with FFT - p5.js Sound Tutorial
+](https://www.youtube.com/watch?v=2O3nm0Nvbi4&ab_channel=TheCodingTrain)
+
+### Beat Detector
+* [Designing a Beat Detection Algorithm](https://www.youtube.com/watch?v=frDQFCRFMB8&ab_channel=MaxMitchell)
+* [Beat Detection](https://en.wikipedia.org/wiki/Beat_detection)
+* [Beat Detection Algorithms (Part 1)](https://mziccard.me/2015/05/28/beats-detection-algorithms-1/#:~:text=The%20algorithm%20divides%20the%20data,considered%20to%20contain%20a%20beat.)
+
