@@ -15,12 +15,15 @@ The following project is a music visualizer which utilizes the Processing (graph
 ## Versions 🧾
 
 <p> 
-    <img width=400 align='Right' src="https://github.com/Raziz1/Audio_Visualizer/blob/main/images/Visualizer_Version1.png? raw=true" >
-    <img width=400 align='Right' src="https://github.com/Raziz1/Audio_Visualizer/blob/main/images/Visualizer_Version2.png? raw=true" >
+    <img width=250 align='Right' src="https://github.com/Raziz1/Audio_Visualizer/blob/main/images/Visualizer_Version1.png? raw=true" >
 </p> 
 
 ### Version 1
 * Version 1 uses 4 colors and calculates a linear interpolation between all 4 colors and colors different sections of the frequency bands and beat circle with this gradient
+ 
+<p> 
+    <img width=250 align='Right' src="https://github.com/Raziz1/Audio_Visualizer/blob/main/images/Visualizer_Version2.png? raw=true" >
+</p>  
  
 ### Version 2
 * Version 2 simply creates a color gradient dependent on the amplitude of the frequency band and the radius of the beat circle
