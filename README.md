@@ -51,7 +51,7 @@ The following project is a music visualizer which utilizes the Processing (graph
 ### FFT (Fast Fourier Transform)
 * [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY&ab_channel=3Blue1Brown)
 * [The Fast Fourier Transform (FFT)](https://www.youtube.com/watch?v=E8HeD-MUrjY&ab_channel=SteveBrunton)
-* [Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform#:~:text=A%20fast%20Fourier%20transform%20(FFT,frequency%20domain%20and%20vice%20versa.)
+* [Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 * [17.11: Sound Visualization: Frequency Analysis with FFT - p5.js Sound Tutorial
 ](https://www.youtube.com/watch?v=2O3nm0Nvbi4&ab_channel=TheCodingTrain)
 
