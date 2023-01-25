@@ -49,6 +49,7 @@ The following project is a music visualizer which utilizes the Processing (graph
 
 ## More Resources 🧠
 ### FFT (Fast Fourier Transform)
+* [Brute force method of visualizing FFT (7:26)](https://www.youtube.com/watch?v=nmgFG7PUHfo&ab_channel=Veritasium)
 * [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY&ab_channel=3Blue1Brown)
 * [The Fast Fourier Transform (FFT)](https://www.youtube.com/watch?v=E8HeD-MUrjY&ab_channel=SteveBrunton)
 * [Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
